@@ -1860,6 +1860,7 @@ header .mega-menu img {
   display: flex;
   flex-wrap: wrap;
   align-content: space-between;
+  flex-basis: calc(100% - 30px);
 }
 
 .vid .container .content .top-vid video {
